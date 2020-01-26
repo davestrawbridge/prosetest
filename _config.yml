@@ -5,9 +5,9 @@ description: Collection of maritime fasteners
 lang: en-GB
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://localhost:4000 # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: http://test.golfstrike.co.uk/prosetest/ # the base hostname & protocol for your site
+git_address: https://github.com/davestrawbridge/prosetest
+git_edit_address: https://github.com/davestrawbridge/prosetest/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
