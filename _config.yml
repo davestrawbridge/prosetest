@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: Collection of maritime fasteners
 lang: en-GB
 
-baseurl: "/prosetest/" # the subpath of your site, e.g. /blog/
+baseurl: "/prosetest" # the subpath of your site, e.g. /blog/
 url: http://test.golfstrike.co.uk/ # the base hostname & protocol for your site
 git_address: https://github.com/davestrawbridge/prosetest
 git_edit_address: https://github.com/davestrawbridge/prosetest/blob/gh-pages
